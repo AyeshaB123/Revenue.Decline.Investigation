@@ -46,11 +46,6 @@ This investigation provides a focused roadmap for business decision-making. Rath
 
 ---
 
-
-## Business Recommendations
-
----
-
 # Next Steps & Further Investigation
 
 ## Inventory & Supply Chain
