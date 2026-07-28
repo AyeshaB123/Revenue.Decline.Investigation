@@ -1,4 +1,4 @@
-# Why Revenue Declined by 43.1% from 2011 to 2012?
+# Why did Revenue Decline by 43%?
 
 ---
 
