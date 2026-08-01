@@ -122,3 +122,20 @@ Determine whether external market conditions influenced product demand.
 - Did customer preferences change?
 - Did economic conditions influence purchasing behavior?
 - Was the United States market affected by broader demand changes?
+
+
+## Conclusion
+
+This project demonstrates a complete, evidence-driven approach to root cause analysis. Instead of treating "revenue decline" as a single vague problem, it was broken down into measurable components.
+
+From there, a structured drill-down across time, product hierarchy, and geography narrowed a company-wide issue into a specific, actionable scope. Five product 
+categories, nine subcategories, and one dominant market (the United States) accounted for the vast majority of the decline.
+
+The outcome is not just a set of numbers, but a clear roadmap: management can now investigate a defined subset of products and geography, rather than searching 
+blindly across the entire business. This reflects the core goal of analytics work: turning a broad, ambiguous question into a focused, testable path forward.
+
+
+
+# 🤝 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/ayesha-analyst/)
+- [Email](mailto:ayeshabatool160@gmail.com)
