@@ -37,7 +37,6 @@ This investigation provides a focused roadmap for business decision-making. Rath
 
 ## Key Findings
 
-- Revenue declined by **43.1%** between 2011 and 2012.
 - Quantity Sold was identified as the primary driver of the decline.
 - Five product categories explained **98.9%** of the Quantity Sold decline.
 - Nine product subcategories accounted for **86.7%** of the decline.
