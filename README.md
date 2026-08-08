@@ -4,7 +4,7 @@
 
 ## Executive Summary
 
-To identify the primary driver, Revenue was decomposed into its two business components—**Average Selling Price (ASP)** and **Quantity Sold**. The analysis showed that ASP decreased by only **2.2%**, while Quantity Sold declined by **41.9%**, confirming that reduced sales volume was the primary cause of the decline.
+To identify the primary driver, Revenue was decomposed into its two business components: **Average Selling Price (ASP)** and **Quantity Sold**. The analysis showed that ASP decreased by only **2.2%**, while Quantity Sold declined by **41.9%**, confirming that reduced sales volume was the primary cause of the decline.
 
 A progressive drill-down analysis was then performed across **time, product hierarchy and geography dimensions**. The investigation narrowed its scope to the **Regular product class** during **April, May, June, July, and October**, where most lost sales occurred. Within this scope, **five product categories explained 98.9%** of the Quantity Sold decline, while **nine product subcategories accounted for 86.7%**. Geographic analysis further revealed that **North America contributed 81.8%** of the decline, with the **United States accounting for 94.4%** of the regional decrease.
 
