@@ -134,16 +134,15 @@ The positive Quantity Sold trends were concentrated in:
 
 ## 👩‍💼 Analyst View
 
+# Analyst View
 
+This analysis helps the business understand where the revenue decline was concentrated and which areas had the greatest impact on overall performance. It provides a starting point for identifying where attention is needed rather than treating the decline as a single company-wide issue.
 
----
+The dataset allowed me to investigate sales, cost, and profitability trends across the available dimensions, but it did not provide enough information to investigate every possible reason behind the decline. Factors such as changes in inventory, product availability, customer behavior, promotions, or competitive activity could not be explored in the same depth because the required data was outside the scope of the dataset.
 
-## 🎯 Conclusion
+There was also less direction around the problem because this was a project dataset rather than a real business case. If I were given this problem within a company, I would expect some initial context from stakeholders before starting the analysis. For example, the inventory or operations team might highlight changes in product availability over the previous year, the sales or customer team might have noticed a change in purchasing behavior, or the research team might have identified increased competitive pressure in a particular market. These observations would not be treated as the answer, but they could help form more targeted questions, decide where to investigate first, and use the data to confirm or challenge those assumptions.
 
-
-
-
-
+From a business prioritization perspective, I would not focus only on the products with the largest decline in quantity or revenue. I would look for the overlap between products experiencing a significant decline and products generating stronger profit margins or profit contribution. Recovering sales in these areas could have a greater impact on overall profitability, making them stronger candidates for further investigation and potential business action.
 
 ---
 
