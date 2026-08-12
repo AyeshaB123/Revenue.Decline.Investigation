@@ -167,3 +167,8 @@ The positive Quantity Sold trends were concentrated in:
 
 ---
 
+# 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ayesha-analyst/)
+- [Email](mailto:ayeshabatool160@gmail.com)
+
