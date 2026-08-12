@@ -134,8 +134,6 @@ The positive Quantity Sold trends were concentrated in:
 
 ## 👩‍💼 Analyst View
 
-# Analyst View
-
 This analysis helps the business understand where the revenue decline was concentrated and which areas had the greatest impact on overall performance. It provides a starting point for identifying where attention is needed rather than treating the decline as a single company-wide issue.
 
 The dataset allowed me to investigate sales, cost, and profitability trends across the available dimensions, but it did not provide enough information to investigate every possible reason behind the decline. Factors such as changes in inventory, product availability, customer behavior, promotions, or competitive activity could not be explored in the same depth because the required data was outside the scope of the dataset.
