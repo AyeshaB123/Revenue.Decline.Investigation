@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-Revenue dropped by **43% over a seven-month period**. This project investigates the root causes of the decline using a structured drill-down analysis across **time, product, and geography**.
+Revenue dropped by **43% over a seven month period**. This project investigates the root causes of the decline using a structured drill-down analysis across **time, product, and geography**.
 
 The analysis identifies the primary drivers of the decline, measures the financial impact, examines segments that showed signs of recovery during the decline, and translates the findings into actionable business recommendations.
 
