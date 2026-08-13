@@ -1,5 +1,9 @@
 # Why Revenue Declined by 43%? Root-Cause Analysis, Financial Impact & Recovery Plan
 
+**Project Type:** B2B Sales Analytics | Revenue Decline Analysis
+
+---
+
 ## 📌 Project Overview
 
 Revenue dropped by **43% over a seven month period**. This project investigates the root causes of the decline using a structured drill-down analysis across **time, product, and geography**.
