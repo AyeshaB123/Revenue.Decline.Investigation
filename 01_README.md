@@ -1,16 +1,21 @@
-# Why Revenue Declined by 43%? Root-Cause Analysis, Financial Impact & Recovery Plan
+# Why Revenue Declined by 43%? Root-Cause Analysis | Financial Impact | Recovery Plan 
 
-**Project Type:** B2B Sales Analytics | Revenue Decline Analysis
+
 
 ---
 
 ## 📌 Project Overview
 
-Revenue dropped by **43% over a seven month period**. This project investigates the root causes of the decline using a structured drill-down analysis across **time, product, and geography**.
+Dataset: Contoso Retail Sales
+
+Industry: Consumer Electronics & Related Products
+
+Revenue dropped by **43% over a seven month period of a Retail Business**. This project investigates the root causes of the decline using a structured drill-down analysis across **time, product, and geography**.
 
 The analysis identifies the primary drivers of the decline, measures the financial impact, examines segments that showed signs of recovery during the decline, and translates the findings into actionable business recommendations.
 
 > **Dataset Limitation:** The dataset does not contain data for January, February, March, November, or December. Therefore, the analysis focuses only on the available months, **April through October**.
+> **This dataset h
 
 ---
 
