@@ -176,5 +176,5 @@ From a business prioritization perspective, I would not focus only on the produc
 # 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ayesha-analyst/)
-- [Email](mailto:ayeshabatool160@gmail.com)
+- [Email](mailto:ayesha.batool.career@gmail.com)
 
