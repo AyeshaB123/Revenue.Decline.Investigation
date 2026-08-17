@@ -1,6 +1,4 @@
-# Why Revenue Declined by 43%? Root-Cause Analysis | Financial Impact | Recovery Plan 
-
-
+# Why has Revenue declined by 43%? Root-Cause Analysis | Financial Impact | Recovery Plan 
 
 ---
 
@@ -15,7 +13,6 @@ Revenue dropped by **43% over a seven month period of a Retail Business**. This 
 The analysis identifies the primary drivers of the decline, measures the financial impact, examines segments that showed signs of recovery during the decline, and translates the findings into actionable business recommendations.
 
 > **Dataset Limitation:** The dataset does not contain data for January, February, March, November, or December. Therefore, the analysis focuses only on the available months, **April through October**.
-> **This dataset h
 
 ---
 
@@ -34,7 +31,7 @@ The analysis identifies the primary drivers of the decline, measures the financi
 
 | KPI | YoY Change |
 |---|---:|
-| Revenue | **-43.0%** |
+| Revenue | **-43.1%** |
 | Quantity Sold | **-41.9%** |
 | Average Selling Price (ASP) | **-4.4%** |
 | Gross Profit | **-43.7%** |
@@ -51,9 +48,9 @@ The analysis followed a drill-down approach across Product Class - Category - Su
 
 The sharpest declines occurred in April, May, June, July, and October.
 
-**Regular class** accounted for **103%** of the Quantity Sold decline.** This exceeds 100% because **Economy class** was growing at the same time.
+Product **Regular class** accounted for **103%** of the Quantity Sold decline. This exceeds 100% because Product **Economy class** was growing at the same time.
 
-**Regular Class Decline Concentration:**
+**Product Regular Class Decline Concentration:**
 
 - **5 Product Categories:** Cameras & Camcorders, Cell Phones, Computers, TV & Video, Music, Movies & Audio Books
 - **9 Product Subcategories:** Digital Cameras, Digital SLR Cameras, Printers, Scanners & Fax, Projectors & Screens, Movie DVD, Touch Screen Phones, Home & Office Phones, Smart Phones & PDAs, Home Theater System
@@ -78,7 +75,7 @@ The sharpest declines occurred in April, May, June, July, and October.
 
 Several product and geographic segments showed positive Quantity Sold trends during the declining period.
 
-**ASP decreased by 4.4%, which supported growth in Economy class.**
+**Average Selling Price (ASP) decreased by 4.4%, which supported growth in Product Economy class.**
 
 The positive Quantity Sold trends were concentrated in:
 
@@ -132,12 +129,12 @@ The positive Quantity Sold trends were concentrated in:
 1. **Reduce Concentration Risk**
    - Reduce dependency on a small number of manufacturers and a single continent.
 
-2. **Develop Class-Specific Pricing Strategies**
+2. **Develop Product Class-Specific Pricing Strategies**
    - Regular and Economy classes behaved differently.
    - A single pricing strategy across all product classes may not be effective.
 
 3. **Document Recovery Drivers**
-   - Track ASP changes, category performance, and geographic performance to build a repeatable recovery framework.
+   - Track Average Selling Price (ASP) changes, category performance, and geographic performance to build a repeatable recovery framework.
 
 ---
 
