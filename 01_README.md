@@ -170,6 +170,10 @@ From a business prioritization perspective, I would not focus only on the produc
 
 ---
 
+Author: Ayesha Batool
+
+---
+
 # 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ayesha-analyst/)
