@@ -19,10 +19,10 @@ The analysis identifies the primary drivers of the decline, measures the financi
 ## 📁 Project Deliverables
 
 - [Dashboard](https://github.com/Ayeshah123/Revenue_Decline_Root_Cause_Analysis/blob/main/02_Power_BI/Revenue%20Decline%20Dashboard.pdf)
-- [Analytical Workflow](https://github.com/Ayeshah123/Revenue_Decline_Root_Cause_Analysis/blob/main/05_Documentation/Analytical_Workflow.pdf)
-- [ERD](https://github.com/Ayeshah123/Revenue_Decline_Root_Cause_Analysis/blob/main/05_Documentation/ERD.pdf)
+- [Analytical Workflow](https://github.com/AyeshaB123/Revenue.Decline.Investigation/blob/main/05_Documentation/Analytical_Worflow.pdf)
+- [ERD](https://github.com/AyeshaB123/Revenue.Decline.Investigation/blob/main/05_Documentation/ERD.pdf)
 - [SQL Scripts](https://github.com/Ayeshah123/Revenue_Decline_Root_Cause_Analysis/tree/main/03_SQL)
-- [Project Workflow](./05_Documentation/Project_Workflow.pdf)
+- [Project Workflow](https://github.com/AyeshaB123/Revenue.Decline.Investigation/blob/main/05_Documentation/Project_Workflow.pdf)
 - [Data Dictionary](https://github.com/Ayeshah123/Revenue_Decline_Root_Cause_Analysis/blob/main/05_Documentation/Data_Dictionary.pdf)
 
 ---
