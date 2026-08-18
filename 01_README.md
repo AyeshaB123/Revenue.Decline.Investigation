@@ -2,6 +2,11 @@
 
 ---
 
+## 🔗 View Interactive Power BI Dashboard
+
+[Open Dashboard ->](https://app.powerbi.com/view?r=eyJrIjoiYWFkMzk5MmMtNzk2Yi00MGUzLWFkMDctYTM1ZjZjZmZjYzM4IiwidCI6IjdkZjczZTQwLWRlNzktNDk1MC1iYWQzLTkwODkwNTA3ZTM5OCIsImMiOjJ9)
+
+
 ## 📌 Project Overview
 
 Dataset: Contoso Retail Sales
